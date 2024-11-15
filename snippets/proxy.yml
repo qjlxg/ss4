@@ -402,6 +402,7 @@ payload:
 - DOMAIN-SUFFIX,hosting.co.uk
 - DOMAIN-SUFFIX,hwcdn.net
 - DOMAIN-SUFFIX,jtvnw.net
+- DOMAIN-SUFFIX,linksalpha.com
 - DOMAIN-SUFFIX,manyvids.com
 - DOMAIN-SUFFIX,myactimes.com
 - DOMAIN-SUFFIX,newsblur.com
@@ -613,9 +614,9 @@ payload:
 - DOMAIN-SUFFIX,tweetmarker.net
 - DOMAIN-SUFFIX,txmblr.com
 - DOMAIN-SUFFIX,typekit.net
+- DOMAIN-SUFFIX,ublock.org
 - DOMAIN-SUFFIX,ubnt.com
 - DOMAIN-SUFFIX,ulyssesapp.com
-- DOMAIN-SUFFIX,urchin.com
 - DOMAIN-SUFFIX,usertrust.com
 - DOMAIN-SUFFIX,v.gd
 - DOMAIN-SUFFIX,v2ex.com
